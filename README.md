@@ -1,8 +1,12 @@
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Frank%20Muriel%20(Frankgmv)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+</div>
 <div>
-    <div align="center">
+<!--     <div align="center">
         <img src="https://avatars.githubusercontent.com/Frankgmv" alt="Frank Perfile picture" height="250">
     </div>
-    <div align=center>
+    <div align=center> -->
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/frankgmv/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
@@ -32,4 +36,9 @@
 <!--         <br> -->&nbsp;
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frankgmv&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="" height="200" />
 <!--         <br> -->
+</div>
+<!-- FOOTER -->
+<div align="center" width="20">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
 </div>
