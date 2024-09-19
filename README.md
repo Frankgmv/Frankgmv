@@ -20,7 +20,7 @@
                 Developer Jr, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
                 I have experience working with HTML, CSS, Javascript, NodeJs, React, Php, Java, Data Bases. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Simple Design Patterns, and Problem Solving skills.<br><br>
                 I am passionate about learning programming, many Back-End and Front-End tecnologies, Web 3 and RPA<br><br>
-                Soft skills, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+                Soft skills, responsible, and committed technologist, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
         </p>
         <ul>
